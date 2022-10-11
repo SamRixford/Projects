@@ -1,1 +1,1 @@
-# Projects
+# School Ranker
